@@ -1,4 +1,7 @@
 function add(x,y){
     return x+y;
 }
-add();
+function sub(x,y){
+    return x-y;
+}
+sub();
